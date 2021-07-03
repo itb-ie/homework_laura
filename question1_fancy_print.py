@@ -1,7 +1,7 @@
 from question1 import first_wave, second_wave
 
 import matplotlib.pyplot as plt
-
+# here I just use the two numbers to display them as a fancy pie chart
 # Pie chart, where the slices will be ordered and plotted counter-clockwise:
 labels = 'First Wave', 'Second Wave'
 sizes = [first_wave, second_wave]
